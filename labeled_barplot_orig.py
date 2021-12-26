@@ -1,4 +1,6 @@
-
+# Libraries to help with reading and maintaining data
+import numpy as np
+import pandas as pd
 
 def labeled_barplot_orig(data, feature, perc=False, n=None):
     """
